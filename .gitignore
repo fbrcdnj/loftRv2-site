@@ -1,0 +1,6 @@
+# Aucune donnee de copropriete dans le depot du site (D-0002, D-0051)
+*.zip
+*.pdf
+*.ods
+# Exception : archives techniques de Pyodide, indispensables au site
+!shinylive/pyodide/*.zip
